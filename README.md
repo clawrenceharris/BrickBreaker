@@ -1,1 +1,2 @@
-# BrickBreaker
+# Brick Breaker Game
+
